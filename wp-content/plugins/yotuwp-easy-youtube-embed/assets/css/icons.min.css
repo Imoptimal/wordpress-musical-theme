@@ -1,0 +1,36 @@
+@charset "UTF-8";
+@font-face {font-family: "yotu";src: url("../fonts/yotu.eot");src: url("../fonts/yotu.eot?#iefix") format("embedded-opentype"),url("../fonts/yotu.woff") format("woff"),url("../fonts/yotu.ttf") format("truetype"),url("../fonts/yotu.svg#yotu") format("svg");font-weight: 400;font-style: normal;}
+[class^="yotuicon-"]:before, [class*=" yotuicon-"]:before {font-family: "yotu" !important;font-style: normal !important;font-weight: 400 !important;font-variant: normal !important;text-transform: none !important;speak: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.yotuicon-close:before {content: "a";}
+.yotuicon-prev:before {content: "b";}
+.yotuicon-next:before {content: "c";}
+.yotuicon-more:before {content: "d";}
+.yotuicon-load:before {content: "e";}
+.yotuicon-view:before {content: "f";}
+.yotuicon-comment:before {content: "h";}
+.yotuicon-like:before {content: "i";}
+.yotuicon-play-2:before {content: "j";}
+.yotuicon-play-3:before {content: "k";}
+.yotuicon-play-4:before {content: "l";}
+.yotuicon-play-5:before {content: "m";}
+.yotuicon-play-6:before {content: "n";}
+.yotuicon-play-7:before {content: "o";}
+.yotuicon-play-8:before {content: "p";}
+.yotuicon-play-9:before {content: "q";}
+.yotuicon-play-10:before {content: "r";}
+.yotuicon-play-11:before {content: "s";}
+.yotuicon-play-12:before {content: "t";}
+.yotuicon-play-1:before {content: "u";}
+.yotuicon-ago:before {content: "v";}
+.yotuhover-play-2 .yotu-video-thumb-wrp:after {content: "j";}
+.yotuhover-play-3 .yotu-video-thumb-wrp:after {content: "k";}
+.yotuhover-play-4 .yotu-video-thumb-wrp:after {content: "l";}
+.yotuhover-play-5 .yotu-video-thumb-wrp:after {content: "m";}
+.yotuhover-play-6 .yotu-video-thumb-wrp:after {content: "n";}
+.yotuhover-play-7 .yotu-video-thumb-wrp:after {content: "o";}
+.yotuhover-play-8 .yotu-video-thumb-wrp:after {content: "p";}
+.yotuhover-play-9 .yotu-video-thumb-wrp:after {content: "q";}
+.yotuhover-play-10 .yotu-video-thumb-wrp:after {content: "r";}
+.yotuhover-play-11 .yotu-video-thumb-wrp:after {content: "s";}
+.yotuhover-play-12 .yotu-video-thumb-wrp:after {content: "t";}
+.yotuhover-play-1 .yotu-video-thumb-wrp:after {content: "u";}
