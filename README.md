@@ -6,4 +6,6 @@ Responsive website originally made for a musical group (later cancelled).
 
 Resources used:
 * All of the photos used here are downloaded from <b>stocksnap.io</b> (category of Music - https://stocksnap.io/search/music)<br>
-* All of the videos used here are from the youtube channel <b>Audio Library — Music for content creators</b> (available at https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA/about)
+* All of the videos used here are from the youtube channel <b>Audio Library — Music for content creators</b> (available at https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA/about)<br>
+* Social media icons © Alexander Kahlkopf, https://iconmonstr.com/license/ - available free of charge @ https://iconmonstr.com/
+* The logo © 2019 Ivan Maljukanović, CC0 - made by me, not available online apart from this repository
